@@ -104,3 +104,8 @@
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.img-fluid {
+  /* border: 3px solid black; */
+  padding-left: 10px;
+}
